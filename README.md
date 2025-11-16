@@ -9,32 +9,33 @@ I'm **Inejih**, an aspiring **Full Stack Developer** with a strong foundation in
 **web development, databases, cybersecurity basics**, and modern frameworks like  
 **Django, Laravel, Angular, and Next.js**.
 
-I'm also the creator of the online brand **"Learn English with Inejih"**,  
+I'm also the creator of the online channel **"Learn English with Inejih"**,  
 where I help students improve their English, tech knowledge, and productivity.
 
 ---
 
 ## 🎓 Education
 - **Student:** Développement Informatique — LISCAE Mauritania  
-- **Level:** College Student  
+- **Level:** Post Graduates student 
 - **Goal:** Become a top full-stack developer and tech educator
 
 ---
 
 ## 🚀 My Tech Journey
-I started with simple HTML pages and quickly moved to building full-stack web apps.  
-I’ve solved **500+ algorithmic problems in Python**, strengthening my logic and problem-solving skills.  
+I started with simple HTML pages and quickly moved to building full-stack web apps and mobile app dev.  
+I’ve solved **100+ algorithmic problems in Python**, strengthening my logic and problem-solving skills.  
 
 Today, I’m focused on:
 - Building modern, scalable applications  
 - Studying cybersecurity and secure coding  
 - Improving software architecture & design skills  
-- Growing my digital content platforms  
+- Growing my digital content platforms
+- creating new tech & english & language learning courses 
 
 ---
 
 ## 🎯 Current Focus
-- Mastering **Django, Laravel, Next.js, Angular**  
+- Mastering **Django, Laravel, Next.js, Angular,flutter**  
 - Learning **DevOps basics** → Docker, Git workflows, CI/CD  
 - Improving backend architecture:  
   *APIs, authentication, microservices, security*  
