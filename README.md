@@ -12,7 +12,7 @@ I'm **Inejih**, an aspiring **Full Stack Developer** with a strong foundation in
 I'm also the creator of the online channel **"Learn English with Inejih"**,  
 where I help students improve their English, tech knowledge, and productivity.
 
----
+
 
 ## 🎓 Education
 - **Student:** Développement Informatique — LISCAE Mauritania  
