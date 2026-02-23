@@ -14,7 +14,7 @@
 - 📱 Building apps with **Flutter, React, React Native**
 - 🌐 Backend with **Laravel, Django, Node.js**
 - 🎯 Focused on **real-world projects & startups**
-- 📚 IT Student (Développement Informatique - L2)
+- 📚 IT Student (Développement Informatique - L3)
 - 🎥 Creator of **Learn English with Inejih**
 - 🚀 Dream: Become a global tech leader & entrepreneur
 
