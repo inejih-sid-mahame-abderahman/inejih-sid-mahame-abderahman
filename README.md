@@ -1,114 +1,103 @@
-<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
-# 👨‍💻 Inejih Sid Mhamed Abderahman  
+<h1 color=006AFF>
+  Hi There, I'm Inejih Sid Mhamed Abderahman
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Flutter+%26+Django+Specialist;Content+Creator;Lifelong+Learner)](https://git.io/typing-svg)
-
-🚀 Building digital products | 📱 Mobile Apps | 🌐 Web Systems | 🎥 Educator
-
-</div>
-
----
-
-## 💼 About Me
-
-- 🇲🇷 From **Mauritania**
-- 🎓 L3 Student in **Développement Informatique (ISCAE)**
-- 💻 Full Stack & Mobile Developer
-- 📱 Specialized in **Flutter & Django**
-- 🔐 Interested in **Cybersecurity**
-- 🎥 Founder of **Learn English with Inejih**
-- 🎯 Passionate about startups & real-world projects
-
-> I love building useful, secure, and scalable applications that solve real problems.
+I'm *Inejih Sid Mhamed, a passionate **Full Stack & Mobile Developer* and *Content Creator*.  
+Currently studying at the *Higher Institute of Accounting and Institutional Management (ISCAE Mauritania)*,  
+specializing in *Développement Informatique (L3)*.  
+My goal is to build modern, secure, and scalable mobile and web applications that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🎓 Education
+- *Student:* Développement Informatique (L3)
+- *Institute:* ISCAE Mauritania
+- *Year:* Third-year college student
+- *Graduation:* Expected in 2026
 
 ---
 
-### 🌐 Web & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+## 🚀 My Tech Journey
+I started my journey by learning basic HTML, CSS, and JavaScript, then moved into *mobile and full-stack development*.  
+Over time, I built several real-world projects using *Flutter, Django, and Laravel*, improving my problem-solving skills.  
+Today, I’m focused on building *professional applications*, improving my backend skills, and learning cybersecurity basics.
+
+---
+
+## 🎯 Current Focus
+- Advancing in *Mobile & Full Stack Development* using *Flutter, Django, Laravel, Angular*  
+- Exploring *APIs, database optimization, and backend security*  
+- Growing as a *Developer, Freelancer, and Content Creator*
+
+---
+
+## 💡 Roles & Interests
+- Full Stack Developer  
+- Mobile App Developer  
+- Tech Content Creator  
+- Cybersecurity Learner
+
+---
+
+## 🛠 &nbsp;Technologies I Work With
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
----
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=inejih-sid-mahame-abderahman&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inejih-sid-mahame-abderahman&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=417E87"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inejih-sid-mahame-abderahman&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=inejih-sid-mahame-abderahman&theme=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&currStreakLabel=417E87"/>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inejih-sid-mahame-abderahman&bg_color=none&color=1E90FF&line=1E90FF&point=417E87&area=true&hide_border=true&radius=15&title_color=1E90FF"/>
 
 </div>
 
 ---
 
-## 🚀 Current Goals
-
-- ✅ Build professional mobile apps
-- ✅ Launch SaaS projects
-- ✅ Improve cybersecurity skills
-- ✅ Grow freelancing career
-- ✅ Become a leading African developer 🌍
-
----
-
-## 🌟 Featured Projects
-
-> 🚧 Coming soon…  
-> Big projects in progress 👨‍💻🔥
-
----
-
-## 📫 Connect With Me
-
+## 📫 Social Links
 <p align="center">
 
-<a href="https://github.com/inejih-sid-mahame-abderahman">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.facebook.com/profile.php?id=61578204988275" target="_blank">
+<img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <a href="mailto:inejihsidmhamed801@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://web.facebook.com/profile.php?id=61578204988275">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://inejih-sid-mahame-abderahman.github.io/inejih-protofolio_version_2/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
 </a>
 
-</p>
-
----
-
-<p align="center">
-🔥 “Consistency beats talent when talent doesn’t work.” 🔥  
 </p>
