@@ -35,7 +35,7 @@ I build **modern, scalable, and secure applications** combining web, mobile, and
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies I Work With
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -52,9 +52,15 @@ I build **modern, scalable, and secure applications** combining web, mobile, and
 
 <div align="center">
 
+<!-- Stat Cards -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=inejih-sid-mahame-abderahman&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=inejih-sid-mahame-abderahman&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inejih-sid-mahame-abderahman&bg_color=none&color=1E90FF&line=1E90FF&point=417E87&area=true&hide_border=true&radius=15"/>
 
 </div>
 
@@ -75,3 +81,11 @@ I build **modern, scalable, and secure applications** combining web, mobile, and
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
 </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inejih-sid-mahame-abderahman&style=for-the-badge&color=3B82F6"/>
+</p>
+
+<p align="center"><sub>Open to collaboration • Building real-world apps • Always learning</sub></p>
